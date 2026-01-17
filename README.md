@@ -16,11 +16,7 @@ This project is designed to help learners understand how JavaScript interacts wi
 - **CSS3** → Adds styling for buttons, layout, and responsiveness  
 - **JavaScript (ES6)** → Implements the logic for increment, decrement, and reset actions  
 
----
-
-### 📖 Learning Outcomes
-By building this project, you’ll gain hands-on experience with:
-- Updating the DOM dynamically using JavaScript  
+Live Demo: https://sindhura1024.github.io/Counter/
 - Handling user events like button clicks  
 - Organizing code for readability and reusability  
 - Creating a responsive and interactive UI with minimal code  
